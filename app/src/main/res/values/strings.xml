@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SEG</string>
+    <string name="title_home">Início</string>
+    <string name="title_dashboard">Painel</string>
+    <string name="title_notifications">Notificações</string>
+    <string name="label_nome">Nome:</string>
+    <string name="label_email">e-mail:</string>
+    <string name="label_senha">Senha:</string>
+    <string name="label_salvar">Salvar</string>
+    <string name="vinicius_de_moraes">Vinicius de Moraes</string>
+    <string name="vinicius_mail_com_br">vinicius@mail.com.br</string>
+    <string name="title_cad_usuario">Cad. Usuário</string>
+    <string name="title_con_usuario">Con. Usuários</string>
+    <string name="title_menu">Menu</string>
+    <string name="botao_salvar">Salvar</string>
+</resources>
